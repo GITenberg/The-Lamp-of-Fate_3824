@@ -1,0 +1,23 @@
+_repo: The-Lamp-of-Fate_3824
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pedler, Margaret
+    deathdate: 1948
+    gutenberg_agent_id: '1125'
+    url: http://www.gutenberg.org/2009/agents/1125
+description: ''
+gutenberg_issued: '2006-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3824'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Lamp of Fate
+url: http://www.gutenberg.org/ebooks/3824
